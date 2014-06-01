@@ -1,1 +1,1 @@
-First thing is that what's a computer? how come it?
+# First thing is that what's a computer? how come it?
